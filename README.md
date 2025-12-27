@@ -1,4 +1,4 @@
-# 🎯 Guess Game
+# Guess Game
 
 A simple mini project written in **Rust**, created to learn basic Rust programming concepts.  
 This project is based on the official Rust Book tutorial:  
